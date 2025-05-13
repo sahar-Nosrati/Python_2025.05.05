@@ -1,1 +1,2 @@
-# Python_2025.05.05
+# study Python
+  - function
